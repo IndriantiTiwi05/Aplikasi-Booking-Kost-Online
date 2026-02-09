@@ -1,2 +1,2 @@
 # Aplikasi-Booking-Kost-Online
-Sebuat Aplikasu yang mempermudah booking kost secara onlie
+Sebuat Aplikasi yang mempermudah booking kost secara onlie
